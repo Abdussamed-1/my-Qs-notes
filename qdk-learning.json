@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "position": {
+    "courseId": "katas",
+    "unitId": "complex_arithmetic",
+    "activityId": "complex_arithmetic__complex_conjugate_exercise"
+  },
+  "completions": {
+    "katas__getting_started__getting_started__flip_qubit": {
+      "completedAt": "2026-11-17T19:35:38.622Z"
+    },
+    "katas__complex_arithmetic__complex_arithmetic__algebraic_perspective": {
+      "completedAt": "2026-11-17T19:44:47.500Z"
+    },
+    "katas__complex_arithmetic__complex_arithmetic__powers_of_i": {
+      "completedAt": "2026-11-17T19:50:27.700Z"
+    },
+    "katas__complex_arithmetic__complex_arithmetic__overview": {
+      "completedAt": "2026-11-17T19:50:55.590Z"
+    },
+    "katas__complex_arithmetic__complex_arithmetic__complex_numbers": {
+      "completedAt": "2026-11-17T19:51:26.728Z"
+    },
+    "katas__complex_arithmetic__complex_arithmetic__complex_addition": {
+      "completedAt": "2026-11-17T19:56:17.040Z"
+    },
+    "katas__complex_arithmetic__complex_arithmetic__complex_multiplication": {
+      "completedAt": "2026-11-17T20:02:30.635Z"
+    },
+    "katas__complex_arithmetic__complex_arithmetic__complex_conjugate": {
+      "completedAt": "2026-11-17T20:02:53.801Z"
+    },
+    "katas__complex_arithmetic__complex_arithmetic__complex_conjugate_exercise": {
+      "completedAt": "2026-11-17T20:05:48.108Z"
+    }
+  },
+  "startedAt": "2026-11-17T19:33:39.034Z",
+  "pythonEnvironments": {},
+  "courseSelected": true
+}
